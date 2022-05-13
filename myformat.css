@@ -97,6 +97,15 @@ h4 {
     padding-right: 5px;
 }
 
+.downloads a {
+    color: #c3cad3;
+}
+
+.downloads a:hover{
+    color: #ffec7d;
+    text-decoration: none;
+}
+
 .subject {
     width: 15%;
     padding-right: 5px;
